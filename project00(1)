@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Real Madrid: Best Team in the World</title>
+
+
+</head>
+
+<body>
+
+    <div>
+        <h1 style="text-align: center;"> Real Madrid </h1>
+
+    </div>
+
+    <center>
+    <img width=13% title="Hala Madrid" alt="Los Merengues" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png" >
+    </center>
+
+    <div>
+    <p>Located in Madrid, Spain.</p>
+    <p>Madrid are one of the most winning teams in europe and the world.</p>
+    </div>
+    
+    <div>
+    <table width="20%" border=6 align="right">
+
+        <tr>
+            <th></th>
+            <th><em>Champions League</em></th>
+            <th><em>La Liga</em></th>
+            <th><em>Copa del Rey</em></th>
+            <th><em>Club World Cup</em></th>
+        
+        </tr>
+        <tr>
+            <td>Trophies Won:</td>
+            <td>14</td>
+            <td>35</td>
+            <td>19</td>
+            <td>7</td>
+        </tr>
+        <tr>
+            <td>Mentionable Years:</td>
+            <td>2021-2022</td>
+            <td>2011-2012</td>
+            <td>2013-2014</td>
+            <td>2017</td>
+        </tr>
+
+    </table>
+</div>
+
+
+    <div>
+    <P><strong>These are some of the legends that played for Real Madrid:</strong></P>
+        <ul>- Cristiano Ronaldo</ul>
+        <ul>- Sergio Ramos</ul>
+        <ul>- Di Stefano</ul>
+        <ul>- Iker Casillas</ul>
+
+    </div>
+
+    <!--Facebook Like Button-->
+   
+    
+    <!--End of Facebook Link-->
+
+
+
+
+
+
+
+    
+        
+    
+   
+    
+
+
+
+    
+    
+</body>
