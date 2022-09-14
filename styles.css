@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(249, 241, 137);
+}
+
+p{
+    color: black;
+}
+
+ul:hover{
+    background-color: rgb(43, 42, 41);
+}
+
+a{
+    background-color: firebrick ;
+    color: rgba(225, 221, 228, 0.837);
+}
+
+.tub{
+    background-color: cyan;
+}
+
+.grape{
+    color: rgb(225, 21, 214);
+}
+
+#tree{
+    text-decoration: underline;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.right{
+    display: block;
+    margin-left: 900px;
+    margin-right: 100px;
+    
+}
+
+.round{
+    border-radius: 50%;
+}
+
+@media only screen and (max-width: 600px) {
+    body {background-color: green;}
+}
