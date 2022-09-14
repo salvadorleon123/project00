@@ -4,6 +4,22 @@
 <head>
     <title>Real Madrid: Best Team in the World</title>
 
+    <link rel="stylesheet" href="/Applications/CMC-CSCI040/CSS style sheets/styles.css">
+
+    <meta name="project00" content="This is a page of one of the biggest teams in Europe, Real Madrid.">
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SB5Y9FSRSM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SB5Y9FSRSM');
+</script>
+<!--end of google tag-->
+
 
 </head>
 
@@ -14,13 +30,14 @@
 
     </div>
 
-    <center>
-    <img width=13% title="Hala Madrid" alt="Los Merengues" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png" >
-    </center>
+    
+    <img class="center" title="Hala Madrid" alt="Real Madrid"  src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png" >
+    
 
     <div>
-    <p>Located in Madrid, Spain.</p>
-    <p>Madrid are one of the most winning teams in europe and the world.</p>
+    <p class="tub">Located in Madrid, Spain.</p>
+    <br></br>
+    <p><span class="grape">Madrid</span> are one of the most winning teams in europe and the world.</p>
     </div>
     
     <div>
@@ -54,33 +71,71 @@
 
 
     <div>
-    <P><strong>These are some of the legends that played for Real Madrid:</strong></P>
+    <P><strong>These are some of the legends that played for <span class="grape">Real Madrid</span>:</strong></P>
         <ul>- Cristiano Ronaldo</ul>
         <ul>- Sergio Ramos</ul>
         <ul>- Di Stefano</ul>
-        <ul>- Iker Casillas</ul>
+        <ul>- iker Casillas</ul>
 
     </div>
 
+
+    <div>
+
+    <p id="tree">Follow these links for more info.</p>
+
+    <ol>
+    <a href= "https://github.com/mikeizbicki/cmc-csci040"> Course page</a>
+    </ol>
+
+    <ol>
+    <a href="https://izbicki.me/"> Mike's Page </a>
+    </ol>
+
+    <ol>
+    <a href="https://henrylong612.github.io/"> Check out Henry's work! </a>
+    </ol>
+
+
+    <ol>
+    <a href="https://davidhlee625.github.io/"> Check out David's page! </a>
+
+    </div>
+
+
+   <div style="position:absolute;top:820px;left:200px">
+    <a href="https://github.com/Raymond6688/Raymond6688.github.io/blob/main/second%20Juven.html"> My second page </a>
+    </div>
+
+    <div style="position:absolute;top:845px;left:200px">
+    <a href="https://analytics.google.com/analytics/web/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fanalytics%2F#/p331704781/reports/reportinghub?params=_u..nav%3Dmaui&collectionId=life-cycle"> My third Page</a>
+    </div>
+
+
+    
+
+
+
+
     <!--Facebook Like Button-->
-   
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="G0vv9Tys"></script>
+
+    <div class="fb-like" data-href="https://salvadorleon123.github.io/project00/" data-width="" data-layout="box_count" data-action="like" data-size="large" data-share="true"></div>
     
     <!--End of Facebook Link-->
 
 
+    <div>
+    <!--Commons license Link-->
 
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-
-
+    <!--End of Commons license Link-->
+    </div>
 
     
-        
-    
+
+
    
-    
-
-
-
-    
-    
 </body>
