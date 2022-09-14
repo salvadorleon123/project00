@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <title>Favorite player</title>
+
+        <link rel="stylesheet" href="/Applications/CMC-CSCI040/CSS style sheets/styles.css">
+
+        <meta name="favorite player" content="Favorite player to play for Real Madrid.">
+
+        <!--Google tag-->
+
+        <!--End of Google Tag-->
+
+
+
+    </head>
+
+    <body>
+
+        <center>
+        <img width="40%" class="round" alt="The captain" title="Ramos" src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt4006aa4324d537f4/60da723d0401cb0ebfa64256/79f3ed1268bb523d98923c0fbb6f73ef46243bfe.jpg">
+        </center>
+
+        <h1 style="text-align: center;">Sergio Ramos</h1>
+
+        <div>
+            <p>Ramos played for <span class="grape">Real Madrid</span> from 2005-2021. </p>
+            <p>He was honored with the captain armband because of his leadership.</p>
+        </div>
+
+        <p class="tub">He was also part of the Spanish National Squad that won the 2010 World Cup.</p>
+
+        <br><br>
+
+        <div>
+
+            <blockquote><a href="https://salvadorleon123.github.io/project00/"> Back to Main Page </a></blockquote>
+            <blockquote><a href="">Third Page</a></blockquote>
+        </div>
+
+        <!--Fb Like Button-->
+        <div id="fb-root"></div>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="G0vv9Tys"></script>
+
+        <div class="fb-like" data-href="https://salvadorleon123.github.io/project00/" data-width="" data-layout="box_count" data-action="like" data-size="large" data-share="true"></div>
+        <!--End of FB Like Button-->
+
+
+       
+
+
+
+
+
+
+
+    </body>
+</html>
