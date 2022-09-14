@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Champions League Winners 2022</title>
+
+        <link rel="stylesheet" href="/Applications/CMC-CSCI040/CSS style sheets/styles.css">
+
+        <meta name="Champions" content="Real Madrid became European Champions last season.">
+        <!--Google Tag-->
+
+        <!--End of Google Tag-->
+
+
+    </head>
+
+    <body>
+        <div>
+            <h1 style="text-align: center;">European Champions</h1>
+        </div>
+
+       
+        <img alt="Real Madrid" title="Real Madrid" class="center" src="https://img.olympicchannel.com/images/image/private/t_16-9_3200/primary/pyqaawxxfwzeiib35hsm">
+       
+
+        <p>For the 2021-2022 season, <span class="grape">Real Madrid</span> lifted their <strong>14th</strong> Champions League.</p>
+        <p>This team faced one of the most challenging knockout stages that any team has faced.</p>
+
+        <div>
+        <P>The image to the right displays the lineup that <span class="grape">Real Madrid</span> used to face Liverpool F.C in the final. </P>
+        </div>
+
+        <img width=30% title="Lineup" class="right" src="https://oneftbl-cms.imgix.net/https%3A%2F%2Fthe4thofficial.net%2Fwp-content%2Fuploads%2F2022%2F05%2Flineup-2022-05-26T213600.858.png?auto=format%2Ccompress&crop=faces&dpr=2&fit=crop&h=380&q=25&w=280&s=f53795474d92f7b9953f5323fd749e1b" >
+
+        <ul>
+        <a href="https://salvadorleon123.github.io/project00/"> Back to Main Page</a>
+        </ul>
+
+        <ul>
+            <a href="">Second Page</a>
+        </ul>
+
+        
+
+        
+
+
+        <!--Fb like button-->
+        <div id="fb-root"></div>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="G0vv9Tys"></script>
+
+        <div class="fb-like" data-href="https://salvadorleon123.github.io/project00/" data-width="" data-layout="box_count" data-action="like" data-size="large" data-share="true"></div>
+
+        <!--End of Fb like button-->
+       
+
+
+
+
+        
+
+
+
+
+
+
+
+    </body>
+
+    </html>
